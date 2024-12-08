@@ -12,11 +12,7 @@ const mobileNavContent = ` <nav
     class="flex flex-col gap-6 font-radikalLight text-white text-lg uppercase"
     id="mobileNavList"
   >
-    <li><a href="./index.html">Home</a></li>
-    <li><a href="./residencies.html">Residences</a></li>
-    <li><a href="./partners.html">Partners</a></li>
-    <li><a href="./amenities.html">Amenities</a></li>
-    <li><a href="./services.html">Services</a></li>
+    <li><a href="./gallery.html">Gallery</a></li>
   </ul>
   <ul
     class="font-radikalLight text-white text-[12px] uppercase mt-[50px] gap-6 flex flex-col"

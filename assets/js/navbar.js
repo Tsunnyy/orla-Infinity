@@ -9,18 +9,16 @@ const headerContent = ` <nav
       class="h-[40px] lg:hidden pl-5"
   /></a>
   <ul
-    class="hidden lg:flex items-center gap-[100px] font-radikalThin text-white text-opacity-50 text-[16px]"
+    class="hidden newClass lg:flex items-center gap-[100px] font-radikalThin text-white text-opacity-50 text-[16px]"
     id="navbarList"
   >
     <li><a href="./gallery.html">Gallery</a></li>
-    <li><a href="./partners.html">Partners</a></li>
+   
     <li>
       <a href="./index.html"
         ><img src="/assets/img/orla_logo_white.svg" alt="" class="h-[65px]"
       /></a>
     </li>
-    <li><a href="./amenities.html">Amenities</a></li>
-    <li><a href="./services.html">Services</a></li>
   </ul>
   <div class="absolute top-1/2 -translate-y-1/2 right-[10px] lg:right-[22px]">
     <button
