@@ -35,14 +35,14 @@ class="z-[70] fixed bg-white w-[100vw] lg:w-[605px] top-0 -right-[100%] bottom-0
     <div class="grid grid-cols-2 gap-2 w-full">
       <input
         type="text"
-        placeholder="*First Name"
+        placeholder="First Name*"
         class="inputItem text-xs"
         id="first_name"
         required
       />
       <input
         type="text"
-        placeholder="*Last Name"
+        placeholder="Last Name*"
         class="inputItem text-xs"
         id="last_name"
         required
@@ -50,7 +50,7 @@ class="z-[70] fixed bg-white w-[100vw] lg:w-[605px] top-0 -right-[100%] bottom-0
     </div>
     <input
       type="email"
-      placeholder="*Your Email"
+      placeholder="Your Email*"
       class="inputItem text-xs"
       id="email"
       required
